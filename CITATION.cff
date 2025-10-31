@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab ; Spyder
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: 'Antonio '
+    family-names: Lopez Reyes
+    email: L22212262@tectijuana.edu.mx
+    affiliation: 'TECNM - ITT '
+repository-code: 'https://github.com/tonis614/Practica3MSF'
+keywords:
+  - Controlador PI
+  - Sistema musculoesqueletico
+  - Modelo matematico
+  - Circuito RC
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
